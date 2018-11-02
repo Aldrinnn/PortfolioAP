@@ -16,6 +16,7 @@
 	margin: 0 auto;
 	clear: both;
 
+
 }
 nav{
 	float: right;
@@ -110,4 +111,40 @@ color: yellow;
 text-align: center;
 background: black;
 border-top: 8px solid orange;
+}
+body{
+	font-family: Arial, "Helvetica-neue", Helvetica, "sans-serif";
+	line-height: 34px;
+	font-size: 18px;
+	color: black;
+}
+h1,
+h2,
+h3,
+p {
+	margin-bottom: 20px;
+}
+pilast-child{
+	margin-bottom: 0;
+}
+h1,
+h2,
+h3, {
+font-family: Georgia, "Times New Roman", Times, serif;
+font-weight: 700;
+color: purple;
+}
+h1 {
+	padding-bottom: 20px;
+	font-size: 30px;
+	line-height: 40px;
+	border-bottom: 3px solid greenyellow;
+}
+h2,
+h3 {
+	font-size: 22px;
+}
+.container a{
+	text-decoration: none;
+	color: white;
 }
